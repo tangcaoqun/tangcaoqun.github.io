@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[网站建设中]]></title>
-    <url>%2F1990%2F04%2F11%2F1990-04-11%2F</url>
-    <content type="text"><![CDATA[博客迁移中…敬请谅解]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>网站建设中</title>
+      <link href="/1990/04/11/1990-04-11/"/>
+      <url>/1990/04/11/1990-04-11/</url>
+      
+        <content type="html"><![CDATA[<h1><center>博客迁移中…敬请谅解</center></h1>]]></content>
+      
+      
       <categories>
-        <category>分类测试</category>
+          
+          <category> 分类测试 </category>
+          
       </categories>
-      <tags>
-        <tag>标签测试</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 标签测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
