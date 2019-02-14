@@ -1,132 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>准备写一篇系统安装教程</title>
-      <link href="/2019/02/14/2019-02-14/"/>
-      <url>/2019/02/14/2019-02-14/</url>
-      
-        <content type="html"><![CDATA[<p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;因为最近年假很多同学、朋友找我帮忙处理一手子电脑的软件、系统问题，真的是不胜其烦。所以最近打算找段时间好好写一篇关于Windows7、Windows8、Windows8.1、Windows10、OS X、Ubuntu方面，系统安装和一些简单小故障的教程。毕竟授人以鱼不如授人以渔！！！！！！</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[准备写一篇系统安装教程]]></title>
+    <url>%2F2019%2F02%2F14%2F2019-02-14%2F</url>
+    <content type="text"><![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;因为最近年假很多同学、朋友找我帮忙处理一手子电脑的软件、系统问题，真的是不胜其烦。所以最近打算找段时间好好写一篇关于Windows7、Windows8、Windows8.1、Windows10、OS X、Ubuntu方面，系统安装和一些简单小故障的教程。毕竟授人以鱼不如授人以渔！！！！！！]]></content>
       <categories>
-          
-          <category> 电子产品 </category>
-          
+        <category>电子产品</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 电脑维护 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>毕业后第三年有感</title>
-      <link href="/2019/01/01/2019-01-01/"/>
-      <url>/2019/01/01/2019-01-01/</url>
-      
-        <content type="html"><![CDATA[<p>像当下一样<br>还能再努力<br>工作生活两手抓<br>诗和远方不属于自己<br>踏实赚钱才是王道<br>目标了然于心<br>该来的时候总该会有<br>生活还很美好<br><img src="/2019/01/01/2019-01-01/头像.jpg" alt="头像"></p>]]></content>
-      
-      
+      <tags>
+        <tag>电脑维护</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[毕业后第三年有感]]></title>
+    <url>%2F2019%2F01%2F01%2F2019-01-01%2F</url>
+    <content type="text"><![CDATA[像当下一样还能再努力工作生活两手抓诗和远方不属于自己踏实赚钱才是王道目标了然于心该来的时候总该会有生活还很美好]]></content>
       <categories>
-          
-          <category> 新年总结 </category>
-          
+        <category>新年总结</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 年度总结 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>毕业后第二年有感</title>
-      <link href="/2018/01/01/2018-01-01/"/>
-      <url>/2018/01/01/2018-01-01/</url>
-      
-        <content type="html"><![CDATA[<p>像目前这样<br>达到了预期<br>眼前的状态满意<br>该努力的还需要努力<br>该争取的努力争取<br>看明白要上进<br>生活总是会越来越好<br>会绽放光芒的<br><img src="/2018/01/01/2018-01-01/头像.jpg" alt="头像"></p>]]></content>
-      
-      
+      <tags>
+        <tag>年度总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[毕业后第二年有感]]></title>
+    <url>%2F2018%2F01%2F01%2F2018-01-01%2F</url>
+    <content type="text"><![CDATA[像目前这样达到了预期眼前的状态满意该努力的还需要努力该争取的努力争取看明白要上进生活总是会越来越好会绽放光芒的]]></content>
       <categories>
-          
-          <category> 新年总结 </category>
-          
+        <category>新年总结</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 年度总结 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>毕业后第一年有感</title>
-      <link href="/2017/01/01/2017-01-01/"/>
-      <url>/2017/01/01/2017-01-01/</url>
-      
-        <content type="html"><![CDATA[<p>像从前那样<br>我想的太多<br>想象着能够完美<br>结果并没有什么卵用<br>还不如像现在这样<br>走一步看一步<br>以后的事谁说得定呢<br>大家开心就好<br><img src="/2017/01/01/2017-01-01/头像.jpg" alt="头像"></p>]]></content>
-      
-      
+      <tags>
+        <tag>年度总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[毕业后第一年有感]]></title>
+    <url>%2F2017%2F01%2F01%2F2017-01-01%2F</url>
+    <content type="text"><![CDATA[像从前那样我想的太多想象着能够完美结果并没有什么卵用还不如像现在这样走一步看一步以后的事谁说得定呢大家开心就好]]></content>
       <categories>
-          
-          <category> 新年总结 </category>
-          
+        <category>新年总结</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 年度总结 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>网站建设中</title>
-      <link href="/1990/04/11/1990-04-11/"/>
-      <url>/1990/04/11/1990-04-11/</url>
-      
-        <content type="html"><![CDATA[<h1><center>博客迁移中…敬请谅解</center></h1>]]></content>
-      
-      
+      <tags>
+        <tag>年度总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[网站建设中]]></title>
+    <url>%2F1990%2F04%2F11%2F1990-04-11%2F</url>
+    <content type="text"><![CDATA[博客迁移中…敬请谅解]]></content>
       <categories>
-          
-          <category> 建站分类测试 </category>
-          
+        <category>建站分类测试</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 建站标签测试 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>建站标签测试</tag>
+      </tags>
+  </entry>
 </search>
